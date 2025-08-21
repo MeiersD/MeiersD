@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meiersd&label=Profile%20views&color=0e75b6&style=flat" alt="meiersd" /> </p>
 
-- 🔭 I’m currently working on **applying to grad school**
+- 🔭 I’m currently working on **grad school**
 
-- 🔮 In the future I want to **learn react and firebase**
+- 🔮 In the future I want to **graduate**
 
-- 🧬 Next biochemistry software idea: **JavaScript .xtc or .trr viewer**
-
-- 🧪 Next chemistry software idea: **Retrosynthesis game**
+- 🧬 Next biochemistry software idea: **???**
 
 - 💬 Ask me about **PyMOL**
 
