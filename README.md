@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Meiers</h1>
-<h3 align="center">A neuroscience and biochemistry student</h3>
+<h3 align="center">A biochemistry student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meiersd&label=Profile%20views&color=0e75b6&style=flat" alt="meiersd" /> </p>
 
